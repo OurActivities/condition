@@ -1,4 +1,4 @@
-# 100 - The Twelve Foundations of a Good Life
+# 100 - The Twelve Foundations for a Good Life
 
 ## 100 - Physical Fitness
 
