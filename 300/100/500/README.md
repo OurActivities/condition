@@ -1,6 +1,6 @@
 # 500 - Reading
 
-> **Keystone Haboit**: Read a book for ten minutes nightly before bed.
+> **Keystone Habit**: Read a book for ten minutes nightly before bed.
 
 ![5-Reading-12-foundations](https://github.com/user-attachments/assets/a6eb86b5-0887-4b2a-abd9-fbfa2f3dbc7a)
 
@@ -11,3 +11,8 @@ While blogs and courses can teach you things, there’s something special about 
 We all know we should read more, but we don’t always have the foundation in place for doing so.
 
 ## 100 - Reading List
+
+- [How to Read a Book](https://www.amazon.com/How-Read-Book-Classic-Intelligent/dp/0671212095/) by Mortimer J. Adler and Charles Van Doren
+- [How to Read a Paper](https://www.amazon.com/How-Read-Paper-Evidence-based-Healthcare/dp/111948474X/) by Trisha Greenhalgh
+- [Outsmart Your Brain](https://www.amazon.com/Outsmart-Your-Brain-Learning-Hard/dp/1982167173/) by Daniel Willingham
+- [Why Read?](https://www.amazon.com/Why-Read-Mark-Edmundson/dp/1582346089/) by Mark Edmundson
