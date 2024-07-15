@@ -2,6 +2,8 @@
 
 > **Keystone Habit**: No junk food for a month, followed by clear personal guidelines for exceptions.
 
+![4-Food-12-foundations](https://github.com/user-attachments/assets/b152deff-af11-4209-9cdc-6a4dd160c7b6)
+
 After fitness, healthy eating is probably the best investment you can make in your body. Yet eating right can be really challenging.
 
 For starters, our brains evolved to overconsume. We live in an environment with an abundance of calories, but our instincts are geared toward the threat of future starvation.
