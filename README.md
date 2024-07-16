@@ -15,7 +15,7 @@ See [README.md](./100/README.md)
 
 See [README.md](./200/README.md)
 
-## 300 - Building Our Activity
+## 300 - Conducting Our Activity
 
 See [README.md](./300/README.md)
 
