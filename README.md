@@ -1,6 +1,8 @@
 condition
 # Condition
 
+> To train somebody/something to behave in a particular way or to become used to a particular situation.
+
 Based on "Wooden on Leadership" by John Wooden (ebook)
 
 Based on "The Universal Foundations for a Good Life" at https://www.scotthyoung.com/blog/2024/07/02/foundations-for-good-life/
